@@ -1,4 +1,3 @@
 # calculator
-Calculator
 
-#TODO Scrientific calculator
+#TODO Scientific calculator
